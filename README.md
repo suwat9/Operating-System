@@ -8,7 +8,7 @@
     1. Operating System - โปรแกรมสำหรับควบคุม/ประสานงานการใช้ Hardware เพื่อตอบสนองต่อโปรแกรมประยุกต์และผู้ใช้งาน
     1. Applications Programs - โปรแกรมใช้งานของผู้ใช้ เพื่อใช้แก้ปัญหาต่าง ๆ ตามความต้องการของผู้ใช้งาน (compilers, database systems, video games, business programs)
     1. Users - บุคลากรทางด้านคอมพิวเตอร์, เครื่องจักร หรือ คอมพิวเตอร์เครื่องอื่น ๆ (people, machines, other computers)
-   1. ระบบปฏิบัติการคืออะไร
+ 1. ระบบปฏิบัติการคืออะไร
     1. Resource allocator – manages and allocates resources.
     1. Control program – controls the execution of user programs and operations of I/O devices .
     1. Kernel – the one program running at all times (all else being application programs).
