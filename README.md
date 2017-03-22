@@ -3,7 +3,7 @@
 
 เราควรเรียนรู้เรื่องอะไรบ้าง
 1. ศัพท์ทางด้านระบบปฏิบัติการที่จำเป็น
-  1. Computer System Components - องค์ประกอบระบบคอมพิวเตอร์
+   1. Computer System Components - องค์ประกอบระบบคอมพิวเตอร์
     1. Hardware - อุปกรณ์คอมพิวเตอร์สำหรับใช้งาน (CPU, Memory, I/O Devices)
     1. Operating System - โปรแกรมสำหรับควบคุม/ประสานงานการใช้ Hardware เพื่อตอบสนองต่อโปรแกรมประยุกต์และผู้ใช้งาน
     1. Applications Programs - โปรแกรมใช้งานของผู้ใช้ เพื่อใช้แก้ปัญหาต่าง ๆ ตามความต้องการของผู้ใช้งาน (compilers, database systems, video games, business programs)
