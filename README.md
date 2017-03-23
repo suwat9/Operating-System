@@ -12,4 +12,18 @@
     1. Resource allocator – manages and allocates resources.
     1. Control program – controls the execution of user programs and operations of I/O devices .
     1. Kernel – the one program running at all times (all else being application programs).
+ 1. ระบบคอมพิวเตอร์ มีอะไรบ้าง
+   1. Mainframe Systems
+   1. Multiprogrammed Batch Systems
+   1. Time-Sharing Systems
+   1. Desktop Systems
+   1. Parallel Systems
+   1. Distributed Systems
+   1. Clustered Systems
+   1. Real-Time Systems
+   1. Handheld Systems
+1. สภาพแวดล้อมการทำงานทางคอมพิวเตอร์
+   1. Traditional computing
+   1. Web-Based Computing
+   1. Embedded Computing
 
